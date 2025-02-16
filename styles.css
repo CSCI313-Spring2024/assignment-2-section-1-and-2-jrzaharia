@@ -1,0 +1,18 @@
+body {
+  font-size: 16px;
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+}
+
+#profile {
+  float: left;
+  border-radius: 1em;
+}
+
+h2 {
+  color: #00731f;
+}
+
+#about {
+  background-color: #dbffe5;
+}
