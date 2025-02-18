@@ -16,3 +16,7 @@ h2 {
 #about {
   background-color: #dbffe5;
 }
+
+#bold {
+  font-weight: bold;
+}
